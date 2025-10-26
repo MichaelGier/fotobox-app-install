@@ -7,5 +7,5 @@ Dieses Skript installiert die Photobooth-App auf einem Raspberry Pi inkl. aller 
 1. Repository klonen:
 
 ```bash
-git clone https://github.com/DEIN-BENUTZERNAME/photobooth-installer.git
+git clone https://github.com/MichaelGier/photobooth-installer.git
 cd photobooth-installer
